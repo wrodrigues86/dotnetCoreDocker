@@ -1,0 +1,17 @@
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\ApiWebGeradorPessoa.exe
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\build\web.config
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\build\ApiWebGeradorPessoa.deps.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\build\ApiWebGeradorPessoa.runtimeconfig.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\build\appsettings.Development.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\build\appsettings.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\ApiWebGeradorPessoa.dll
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\ApiWebGeradorPessoa.deps.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\ApiWebGeradorPessoa.runtimeconfig.json
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\ApiWebGeradorPessoa.pdb
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\welli\OneDrive\Área de Trabalho\PROJETOS C#\GERADOR DE PESSOA\ApiWebGeradorPessoa\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "repx5JKJpwuGncO3PX9qAyq+f6swheoZf0yekHWmlPQ=",
+  "Source": "ApiWebGeradorPessoa",
+  "BasePath": "_content/ApiWebGeradorPessoa",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
