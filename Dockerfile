@@ -11,6 +11,8 @@ FROM mcr.microsoft.com/dotnet/aspnet:7.0
 WORKDIR /app
 COPY --from=build-env /app/out .
 
-EXPOSE 3000
+# Definindo a URL que o Kestrel usará para escutar
+ENV ASPNETCORE_URLS=http://*:${PORT:-3000}
+//EXPOSE 3000
 
 ENTRYPOINT ["dotnet", "ApiWebGeradorPessoa.dll"]
