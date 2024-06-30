@@ -1,9 +1,6 @@
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build-env
 WORKDIR /app
 
-EXPOSE 3000
-EXPOSE 9200
-
 COPY *.csproj ./
 RUN dotnet restore
 
@@ -14,5 +11,6 @@ FROM mcr.microsoft.com/dotnet/aspnet:7.0
 WORKDIR /app
 COPY --from=build-env /app/out .
 
+EXPOSE 3000
 
 ENTRYPOINT ["dotnet", "ApiWebGeradorPessoa.dll"]
